@@ -15,6 +15,7 @@ bin/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#test modif collaborateur
 # Package Files #
 *.jar
 *.war
